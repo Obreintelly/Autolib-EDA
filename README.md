@@ -4,7 +4,7 @@ In this assignment, we will be investigating claims about bluecars in France in 
 
 Description:
 
-In this assignement, we have been provided with the Autolib Dataset. Autolib is a French compnay in the business of car-sharing and the data provided relates to the number of times the car-sharing services were utilized in the month of April 2018 and over a 9 day period. In this notebook, we unpack the question and provide answers to the study question.
+In this assignment, we have been provided with the Autolib Dataset. Autolib is a French compnay in the business of car-sharing and the data provided relates to the number of times the car-sharing services were utilized in 2018. In this notebook, we unpack the question and provide answers to the study question.
 Hypothesis Report: https://drive.google.com/file/d/1S6WiV7g9NnucqVgvy7y6PN2GPOr-HU11/view?usp=sharing 
 Setup Requirements:
 
@@ -16,7 +16,7 @@ The relevant datase for analysis can be accessed here:http://bit.ly/DSCoreAutoli
 
 The programming language used: Python.
 
-Libraries used: Pandas, Numpy, Seaborn, Matplotlib
+Libraries used: Pandas, Numpy, Seaborn, Matplotlib, SciPy
 
 Code Development:
 
